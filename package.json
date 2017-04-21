@@ -1,0 +1,25 @@
+{
+  "name": "flexibility-stylus",
+  "version": "1.0.0",
+  "description": "Flexibility stylus plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "stylus-plugin"
+  ],
+  "author": "zhanziyang",
+  "license": "ISC",
+  "dependencies": {
+    "multi-stage-sourcemap": "^0.2.1",
+    "postcss": "^5.2.17",
+    "postcss-flexibility": "^1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "css": "^2.2.1",
+    "mocha": "^3.2.0",
+    "stylus": "^0.54.5"
+  }
+}

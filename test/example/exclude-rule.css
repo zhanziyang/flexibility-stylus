@@ -1,0 +1,4 @@
+.foo {
+  /* flexibility-disable */
+  display: flex;
+}
