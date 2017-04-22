@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Flexibility stylus plugin",
   "main": "index.js",
+  "repository": "zhanziyang/flexibility-stylus",
   "scripts": {
     "test": "mocha"
   },
